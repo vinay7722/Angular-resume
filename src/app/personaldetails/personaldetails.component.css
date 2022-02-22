@@ -1,0 +1,8 @@
+.left {
+    float: left;
+    background-color: aqua;
+    width: 45%;
+    border: 1px solid red;
+    margin-left: 50px;
+  }
+  
